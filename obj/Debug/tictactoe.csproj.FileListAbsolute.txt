@@ -1,0 +1,9 @@
+c:\users\justin\documents\visual studio 2017\Projects\tictactoe\tictactoe\bin\Debug\tictactoe.exe.config
+c:\users\justin\documents\visual studio 2017\Projects\tictactoe\tictactoe\bin\Debug\tictactoe.exe
+c:\users\justin\documents\visual studio 2017\Projects\tictactoe\tictactoe\bin\Debug\tictactoe.pdb
+c:\users\justin\documents\visual studio 2017\Projects\tictactoe\tictactoe\obj\Debug\tictactoe.csprojResolveAssemblyReference.cache
+c:\users\justin\documents\visual studio 2017\Projects\tictactoe\tictactoe\obj\Debug\tictactoe.board_Form.resources
+c:\users\justin\documents\visual studio 2017\Projects\tictactoe\tictactoe\obj\Debug\tictactoe.Properties.Resources.resources
+c:\users\justin\documents\visual studio 2017\Projects\tictactoe\tictactoe\obj\Debug\tictactoe.csproj.GenerateResource.Cache
+c:\users\justin\documents\visual studio 2017\Projects\tictactoe\tictactoe\obj\Debug\tictactoe.exe
+c:\users\justin\documents\visual studio 2017\Projects\tictactoe\tictactoe\obj\Debug\tictactoe.pdb
